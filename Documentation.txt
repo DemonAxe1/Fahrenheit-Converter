@@ -1,0 +1,27 @@
+Fahrenheit Conversion program
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+The main mission behind this program is to prompt the user to convert the Fahrenheit temperature they enter to either Celsius or Kelvin.
+The user gets 4 options when the code starts Convert Fahrenheit to Celsius, convert Fahrenheit to Kelvin, display outputs, or exit the program. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Option 1 & 2 (Convert Temp to Celsius or Kelvin):
+-------------------------------------------------
+If the user picks one of the first 2 options, then they are prompted to enter a temperature in Fahrenheit and then is converted and printed out.
+The program only repeats this part 10 times before prompting the user “10 Temperatures have been added, no more Temperatures can be inputted!”
+and then explains that they can check the data table or exit the program. Then the program loops back to the initial prompt with the 4 options.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Option 3 (Print Data Table):
+----------------------------
+If the user picks option 3 (Display Data) this will print a list this will print out a list of all 3 temperatures Fahrenheit, Celsius, and Kelvin.
+Showing all ten of the user temperature inputs and converting them to both Celsius and Kelvin.
+After printing this table the program goes back to the main options screen and asks for one of the four inputs.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Option 4 (exit):
+----------------
+If the user picks input 4 then the program prints a goodbye message and terminates.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
