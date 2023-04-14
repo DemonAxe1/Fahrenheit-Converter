@@ -18,28 +18,32 @@ The user gets 4 options when the code. Convert Fahrenheit to Celsius, convert Fa
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, prompted to pick an option: <br/>
-<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the program, prompted to pick an option from the main menue: <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 1 (which converets Fahrenheit to Celsius) And is prompted to enter a temp:  <br/>
-<img src="[[[https://imgur.com/VuNocrG](https://imgur.com/E59jBmH)](https://imgur.com/LZpQZj8)](https://imgur.com/YH5U25d).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The user picked 1 (which converets Fahrenheit to Celsius) and is prompted to enter a temp:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/2-%20option%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Another option is selected: <br/>
-<img src="[[https://imgur.com/amYKXml](https://imgur.com/55xk4DO)](https://imgur.com/HGcn3j6).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Results are printed and the user is prompted again to pick an option from the main menue: <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/3%20-%20Results.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
-<img src="[https://imgur.com/2YPuUDB](https://imgur.com/5lXlOav).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The user picked 2 (which converets Fahrenheit to kelvin) and is prompted to enter a temp:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/4-%20option%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
-<img src="[[https://imgur.com/2YPuUDB](https://imgur.com/5lXlOav)](https://imgur.com/f2FoeQO).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Results are printed and the user is prompted again to pick an option from the main menue:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/5-%20results%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
-<img src="[[https://imgur.com/2YPuUDB](https://imgur.com/5lXlOav)](https://imgur.com/AjtkqDe).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The user picked 3, the result table is printed and is prompted again to pick an option from the main menue:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/6-%20Print%20table.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The user Picked 4 and the program terminates:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/7-%20Exit.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
