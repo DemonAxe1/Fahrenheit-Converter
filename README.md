@@ -2,8 +2,9 @@
 <h1>C++ Fahrenheit Converter</h1>
 
 <h2>Description</h2>
-This program is to prompt the user to convert the Fahrenheit temperature they enter to either Celsius or Kelvin.
-The user gets 4 options when the code. Convert Fahrenheit to Celsius, convert Fahrenheit to Kelvin, display outputs, or exit the program. 
+This program prompts the user to enter a temperature in Fahrenheit and then converts the Fahrenheit temperature they enter to either Celsius or Kelvin.
+The user gets 4 options which are Convert Fahrenheit to Celsius, convert Fahrenheit to Kelvin, display outputs, or exit the program.
+
 <br />
 
 
@@ -18,11 +19,11 @@ The user gets 4 options when the code. Convert Fahrenheit to Celsius, convert Fa
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, prompted to pick an option from the main menue: <br/>
+Launch the program, prompted to pick an option from the main menu: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 1 (which converets Fahrenheit to Celsius) and is prompted to enter a temp:  <br/>
+The user picked 1 (which converts Fahrenheit to Celsius) and is prompted to enter a temp:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/2-%20option%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
