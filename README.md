@@ -19,7 +19,7 @@ The user gets 4 options which are Convert Fahrenheit to Celsius, convert Fahrenh
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, prompted to pick an option from the main menu: <br/>
+Launch the program, the user is prompted to pick an option from the main menu: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -27,19 +27,19 @@ The user picked 1 (which converts Fahrenheit to Celsius) and is prompted to ente
 <img src="https://github.com/DemonAxe1/img/blob/main/2-%20option%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Results are printed and the user is prompted again to pick an option from the main menue: <br/>
+Results are printed and the user is prompted again to pick an option from the main menu: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20-%20Results.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 2 (which converets Fahrenheit to kelvin) and is prompted to enter a temp:  <br/>
+The user picked 2 (which converts Fahrenheit to kelvin) and is prompted to enter a temp:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/4-%20option%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Results are printed and the user is prompted again to pick an option from the main menue:  <br/>
+Results are printed and the user is prompted again to pick an option from the main menu:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5-%20results%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 3, the result table is printed and is prompted again to pick an option from the main menue:  <br/>
+The user picked 3, the result table is printed and is prompted again to pick an option from the main menu:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/6-%20Print%20table.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
