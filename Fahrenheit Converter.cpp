@@ -1,5 +1,5 @@
 /*
-Name: Tarek Hisham Ahmed Fouad
+Name: DemonAxe
 In this program we prompt the user with 4 selections. They picks 1 or 2 we ask him to put the Fahrenheit temp to calc. If he picks 3 we show him a table.
 If he picks 4 we say bye and close the program.
 */
