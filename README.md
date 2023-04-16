@@ -39,7 +39,7 @@ Results are printed and the user is prompted again to pick an option from the ma
 <img src="https://github.com/DemonAxe1/img/blob/main/5-%20results%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 3, the result table is printed and is prompted again to pick an option from the main menu:  <br/>
+The user picked 3, the result table is printed, and is prompted again to pick an option from the main menu:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/6-%20Print%20table.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
